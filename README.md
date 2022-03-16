@@ -1,7 +1,4 @@
 # Module Studio3Marketing GoogleTagManager
-
-    ``studio3marketing/module-googletagmanager``
-
  - [Main Functionalities](#markdown-header-main-functionalities)
  - [Installation](#markdown-header-installation)
  - [Configuration](#markdown-header-configuration)
