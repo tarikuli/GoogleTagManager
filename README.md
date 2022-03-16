@@ -1,4 +1,4 @@
-# Mage2 Module Studio3Marketing GoogleTagManager
+# Module Studio3Marketing GoogleTagManager
 
     ``studio3marketing/module-googletagmanager``
 
