@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="Magento\GoogleTagManager\Block\Ga">
+        <plugin name="Studio3Marketing_GoogleTagManager_Plugin_Magento_GoogleTagManager_Block_Ga"
+                type="Studio3Marketing\GoogleTagManager\Plugin\Magento\GoogleTagManager\Block\Ga" sortOrder="01"
+                disabled="false"/>
+    </type>
+</config>

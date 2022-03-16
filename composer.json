@@ -1,0 +1,22 @@
+{
+    "name": "studio3marketing/module-googletagmanager",
+    "description": "Write a simple Magento module that outputs a Purchase event using the Google Tag Manager API. This Purchase event should only appear in the Magento Checkout Success page.",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Tarikul Jewel",
+            "email": "tarikuli@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Studio3Marketing\\GoogleTagManager\\": ""
+        }
+    }
+}
